@@ -47,11 +47,14 @@ footer{
 	padding: 10px;
 	color: #fff;
 	font-size: 1rem;
-}x
-
+}
+.reveal{
+	background-color: #ec012a;
+}
 #main-menu nav {
  display: flex;
  height: 100%;
+ background-color: #ec012a;
 }
 #main-menu ul {
  margin: auto 0;
@@ -59,7 +62,8 @@ footer{
  list-style: none;
  color: #fff;
  font-size: 3rem;
- background-color: #ec012a;
+
+ 
 }
 
 a {
@@ -67,7 +71,6 @@ a {
     color: #fff;
     text-decoration: none;
     cursor: pointer;
-    background-color: #ec012a;
     font-family: 'Playfair Display', serif;
 
 }
